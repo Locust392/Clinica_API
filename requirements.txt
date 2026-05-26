@@ -9,3 +9,5 @@ cryptography
 python-dateutil
 google-cloud-storage
 gunicorn
+whitenoise
+pip install django-cors-headers
