@@ -10,4 +10,4 @@ python-dateutil
 google-cloud-storage
 gunicorn
 whitenoise
-pip install django-cors-headers
+django-cors-headers
