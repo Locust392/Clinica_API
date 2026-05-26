@@ -8,3 +8,4 @@ django-rest-auth
 cryptography
 python-dateutil
 google-cloud-storage
+gunicorn
